@@ -1,5 +1,5 @@
 # Customer-Segmentation-Using-RFM
-This repository explain how to building customer segmentation model by using python and RF analysis, model can help provide insight in order to make decisions for customer treatment, marketing campaign and personal recommendation
+This repository explain how to building customer segmentation model by using python and RFM analysis, model can help provide insight in order to make decisions for customer treatment, marketing campaign and personal recommendation
 ## Steps
 1. Data understanding
 2. Data cleansing
