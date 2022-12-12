@@ -13,7 +13,7 @@ This repository explain how to building customer segmentation model by using pyt
 3. 4 Clusters are created based on K Means Clustering model evaluation 
 ## Business recommendation
 Cluster 0:
-This cluster is a promising customer with a large amount of spending compared to other clusters. company can provide treatment in the form of discount offers and increase engagement by offering personal recommendations.
+This cluster is a lost customer with a high recency value and a small amount spent. Company can send promos via email for specific products with purpose they will visit and spend more money
 
 Cluster 1:
 This cluster is a new customer because the amount spent is low but has the smallest recency value, as the company has only been running for 2 years, this cluster dominates. company must start a good relationship with a good corporate image.
@@ -22,4 +22,4 @@ Cluster 2:
 This cluster is a loyal customer with the highest frequency compared to other clusters with the second largest spending and recency values that are still relatively low. company can offer products or services that have greater value and company need reviews from these customers so company can provide feedback.
 
 Cluster 3:
-This cluster is a lost customer with a high recency value and a small amount spent. Company can send promos via email for specific products but they are not the main focus.
+This cluster is a promising customer with a large amount of spending compared to other clusters. company can provide treatment in the form of discount offers and increase engagement by offering personal recommendations.
